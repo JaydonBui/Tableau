@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ff43c53-5443-4bda-87b5-475359a8d154)📊 Welcome to My Tableau Showcase and Projects
+📊 Welcome to My Tableau Showcase and Projects
 Discover a collection of insightful data visualizations crafted using Tableau. This repository showcases my school projects at Golden Gate University within Communication & Visualization course, designed to explore various topics and provide valuable insights through interactive dashboards
 
 ⭐ Key Features:
@@ -13,8 +13,7 @@ Discover a collection of insightful data visualizations crafted using Tableau. T
 
 - Wholesale & Retail Sales Analysis:
 Explore retail sales data, gaining insights into sales performance, profit margins, product categories, customer behavior, and manufacturer contributions.
-
-![image](https://github.com/user-attachments/assets/da71b680-3c44-4697-b1ea-5d4c8db8fa69)
+![image](https://github.com/user-attachments/assets/9ff43c53-5443-4bda-87b5-475359a8d154)
 
 - Revenue for Current Fiscal Year Dashboard: Explore the financial performance of your business with this interactive dashboard. This tool provides a comprehensive overview of revenue trends, membership levels, and key performance indicators for the current fiscal year.
 
